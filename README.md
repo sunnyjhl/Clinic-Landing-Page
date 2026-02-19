@@ -123,4 +123,4 @@ git push -u origin <your_branch_name>
 
 ## Contact
 
-If you want to contact me, please reach out to me [Linkedin](https://www.linkedin.com/in/muhammad-shan-full-stack-developer/)
+If you want to contact me, please reach out to me [Linkedin](https://www.linkedin.com/in/jayaditya-malviya/)
